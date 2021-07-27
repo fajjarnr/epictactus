@@ -1,4 +1,4 @@
-import Container from "@components/COntainer";
+import Container from "@components/Container";
 import Layout from "@components/Layout";
 import PostAuthor from "@components/PostAuthor";
 import PostMetaTitle from "@components/PostMetaTitle";
