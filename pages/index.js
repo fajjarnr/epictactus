@@ -1,5 +1,5 @@
 import CardPost from "@components/CardPost";
-import Container from "@components/COntainer";
+import Container from "@components/Container";
 import Feature from "@components/Feature";
 import Layout from "@components/Layout";
 import { useState } from "react";
